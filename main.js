@@ -53,7 +53,7 @@ tl.set(".loader", { display: "none" });
 
 
 // custom cursor
-body.addEventListener("mousemove", (e) => {
-  cursor.style.left = e.x - cursor.offsetWidth / 2 + "px";
-  cursor.style.top = e.y - cursor.offsetHeight / 2 + "px";
-});
+// body.addEventListener("mousemove", (e) => {
+//   cursor.style.left = e.x - cursor.offsetWidth / 2 + "px";
+//   cursor.style.top = e.y - cursor.offsetHeight / 2 + "px";
+// });
